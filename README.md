@@ -1,7 +1,7 @@
 # Jenkins Integration with GitHub
 
 ## Aim
-To integrate Jenkins with a GitHub repository for automated source code retrieval and build verification.
+To integrate Jenkins with a GitHub repository for automated source code retrieval and build verification
 
 ## Project Files
 - `README.md` - Project documentation.
